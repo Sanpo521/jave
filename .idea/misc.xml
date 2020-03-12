@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" project-jdk-name="1.6 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="876f5bbe-2a34-4295-8e43-98b8cca666ee" />
+      <option name="name" value="876f5bbe-2a34-4295-8e43-98b8cca666ee" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="5664ac49-3139-441d-acd4-5ffc8bcd18b2" />
+      <option name="name" value="5664ac49-3139-441d-acd4-5ffc8bcd18b2" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="faa3bb92-c0f1-4213-a0c5-c4bd510755f9" />
+      <option name="name" value="faa3bb92-c0f1-4213-a0c5-c4bd510755f9" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="73d8612f-b1cd-4315-a302-726dd5fde312" />
+      <option name="name" value="73d8612f-b1cd-4315-a302-726dd5fde312" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="c5738e85-f933-46ff-8e98-f3a674f884ff" />
+      <option name="name" value="c5738e85-f933-46ff-8e98-f3a674f884ff" />
+      <option name="url" value="http://repository.jboss.org/nexus/content/groups/public" />
+    </remote-repository>
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>
